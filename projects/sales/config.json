@@ -1,0 +1,10 @@
+{
+    "InvoiceNo": {"type": "int"},
+    "StockCode": {"type": "string"},
+    "Description": {"type": "string"},
+    "Quantity": {"type": "int"},
+    "InvoiceDate": {"type": "datetime"},
+    "UnitPrice": {"type": "float"},
+    "CustomerID": {"type": "string"},
+    "Country": {"type": "string"}
+}
