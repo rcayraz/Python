@@ -3,3 +3,4 @@ projects/sales/data/Online_Retail.xlsx
 projects/sales/data/report_metadata
 Poo/__pycache__/account.cpython-312.pyc
 Poo/__pycache__/employe.cpython-312.pyc
+FastApi/__pycache__/*
